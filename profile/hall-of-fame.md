@@ -10,8 +10,13 @@ Celebrating outstanding student teams from **ELEC5308: Intelligent Information E
 
 The 2026 showcase brought together student teams to demonstrate autonomous vehicles developed using simulation and autonomous-system platforms.
 
-<!-- Optional banner image -->
-./images/2026/showcase-banner.jpg
+<p align="center">
+  <img
+    src="./media/Course-Logo.webp"
+    alt="ELEC5308 Logo"
+    width="350"
+  >
+</p>
 
 ---
 
@@ -42,13 +47,13 @@ The 2026 showcase brought together student teams to demonstrate autonomous vehic
 
 ## 🥈 Second Place
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="./images/2026/second-place-team.jpg"
     alt="ELEC5308 2026 second-place team"
     width="720"
   >
-</p>
+</p> -->
 
 ### Group 3
 
@@ -68,7 +73,7 @@ The 2026 showcase brought together student teams to demonstrate autonomous vehic
 
 <p align="center">
   <img
-    src="./images/2026/third-place-team.jpg"
+    src="./media/26S2-Rank3-Group5-compressed.png"
     alt="ELEC5308 2026 third-place team"
     width="720"
   >
@@ -85,18 +90,19 @@ The 2026 showcase brought together student teams to demonstrate autonomous vehic
 - Somayaji, Ananth Rahul
 
 **Platform:** Webots
+**Deme:** [Youtube](https://youtu.be/RvAdw-JVIew) | [Extra Demo](https://youtu.be/OpLr5vmYu0A)
 
 ---
 
 ## ⭐ People’s Choice Award
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="./images/2026/peoples-choice-team.jpg"
     alt="ELEC5308 2026 People's Choice Award team"
     width="720"
   >
-</p>
+</p> -->
 
 ### Group 14
 
