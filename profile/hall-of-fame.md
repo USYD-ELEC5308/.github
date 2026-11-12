@@ -19,7 +19,7 @@ The 2026 showcase brought together student teams to demonstrate autonomous vehic
 
 <p align="center">
   <img
-    src="./images/2026/first-place-team.jpg"
+    src="./media/26S2-Rank1-GroupHappy-compressed.png"
     alt="ELEC5308 2026 first-place team"
     width="720"
   >
@@ -36,6 +36,7 @@ The 2026 showcase brought together student teams to demonstrate autonomous vehic
 - Yan, Hezhong
 
 **Platform:** Webots
+**Deme:** [Youtube](https://youtu.be/PX0Hu-Crd40)
 
 ---
 
