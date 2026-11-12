@@ -1,5 +1,6 @@
 # ELEC5308 Intelligent Information Engineering Practice
 
+
 [ELEC5308: Intelligent Information Engineering Practice](https://www.sydney.edu.au/units/ELEC5308/2026-S2C-ND-CC) is a project-based course where students design, build, test and integrate intelligent systems for applications such as autonomous driving, combining perception, localisation, planning and control with modern software engineering practices. Through hands-on labs, individual milestones and substantial team projects, students develop practical skills in Python, simulation, version control, testing, CI/CD and reproducible engineering workflows. Generative AI and agentic tools are intentionally integrated into the course: students are encouraged to delegate implementation tasks to AI while retaining responsibility for framing problems, evaluating outputs, verifying performance, making engineering decisions and integrating solutions. *The emphasis is therefore not simply on producing working systems, but on developing the engineering judgement, critical evaluation and accountability needed to work effectively with AI in contemporary engineering practice.*
 ---
 
